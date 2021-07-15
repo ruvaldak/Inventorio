@@ -3,7 +3,7 @@
 
 package me.lizardofoz.inventorio.util
 
-const val SLOT_UI_SIZE = 18
+const val SLOT_UI_SIZE = 19
 const val INVENTORY_HEIGHT = 166
 const val INVENTORY_TITLE_X = 97
 
